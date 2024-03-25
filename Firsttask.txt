@@ -1,4 +1,4 @@
 All about meta charset; A charset or character set in full is essentially a set of characters recognized by the computer the same way the calculator can identify numbers. Each of these characters is represented by a number known as code point and this creates a communication channel for encoding and decoding content.
 A character set, therefore, contains characters that serve a specific or particular purpose. The computer stores the characters as one or more bytes. However, most character sets only work for specific languages and recognize limited characters and this makes the coding and encoding difficult or impossible       
-
+How does Meta Charset work? Meta Charset is what determines how text is transmitted and stored. This text data is usually converted to binary first and then there needs to be a kind of cipher that connects characters with their correct binary equivalents.     When this data is eventually decoded, the character encoding must be known beforehand or there could be complications. An example of these can be seen in browsers when you’re looking at a webpage.
 
