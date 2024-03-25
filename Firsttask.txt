@@ -1,4 +1,4 @@
 All about meta charset; A charset or character set in full is essentially a set of characters recognized by the computer the same way the calculator can identify numbers. Each of these characters is represented by a number known as code point and this creates a communication channel for encoding and decoding content.
-
+A character set, therefore, contains characters that serve a specific or particular purpose. The computer stores the characters as one or more bytes.
 
 
